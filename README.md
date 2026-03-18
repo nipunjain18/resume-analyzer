@@ -189,6 +189,8 @@ Libraries: - PDF.js - GSAP - Three.js - Chart.js
 # 👨‍💻 Author
 
 **Nipun Jain**\
+**Siddhesh Mehrunkar**\
+**Samarth Namdev**\
 Hackathon Project -- AI Resume Analyzer
 
 ------------------------------------------------------------------------
